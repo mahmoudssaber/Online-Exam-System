@@ -1,0 +1,131 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Online_Exam_System
+build_property.RootNamespace = Online_Exam_System
+build_property.ProjectDir = E:\work_section\projects_source_code\project_.net\Online-Exam\Online-Exam-System-master\Online Exam System\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\work_section\projects_source_code\project_.net\Online-Exam\Online-Exam-System-master\Online Exam System
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/work_section/projects_source_code/project_.net/Online-Exam/Online-Exam-System-master/Online Exam System/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Online-Exam/Online-Exam-System-master/Online Exam System/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Online-Exam/Online-Exam-System-master/Online Exam System/Views/Admin/AllUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWxsVXNlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Online-Exam/Online-Exam-System-master/Online Exam System/Views/Admin/CreateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Online-Exam/Online-Exam-System-master/Online Exam System/Views/Admin/EditUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdFVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Online-Exam/Online-Exam-System-master/Online Exam System/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Online-Exam/Online-Exam-System-master/Online Exam System/Views/Admin/Settings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2V0dGluZ3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Online-Exam/Online-Exam-System-master/Online Exam System/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Online-Exam/Online-Exam-System-master/Online Exam System/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Online-Exam/Online-Exam-System-master/Online Exam System/Views/Instructor/AddOptions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxBZGRPcHRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Online-Exam/Online-Exam-System-master/Online Exam System/Views/Instructor/AddQuestionForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxBZGRRdWVzdGlvbkZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Online-Exam/Online-Exam-System-master/Online Exam System/Views/Instructor/CreateExam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxDcmVhdGVFeGFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Online-Exam/Online-Exam-System-master/Online Exam System/Views/Instructor/CurrentExams.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxDdXJyZW50RXhhbXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Online-Exam/Online-Exam-System-master/Online Exam System/Views/Instructor/CurrentQuestion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxDdXJyZW50UXVlc3Rpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Online-Exam/Online-Exam-System-master/Online Exam System/Views/Instructor/EditEXam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxFZGl0RVhhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Online-Exam/Online-Exam-System-master/Online Exam System/Views/Instructor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Online-Exam/Online-Exam-System-master/Online Exam System/Views/Instructor/Settings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxTZXR0aW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Online-Exam/Online-Exam-System-master/Online Exam System/Views/Instructor/Stats.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxTdGF0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Online-Exam/Online-Exam-System-master/Online Exam System/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Online-Exam/Online-Exam-System-master/Online Exam System/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Online-Exam/Online-Exam-System-master/Online Exam System/Views/Student/Exam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxFeGFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Online-Exam/Online-Exam-System-master/Online Exam System/Views/Student/ExamsHistory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxFeGFtc0hpc3RvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Online-Exam/Online-Exam-System-master/Online Exam System/Views/Student/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Online-Exam/Online-Exam-System-master/Online Exam System/Views/Student/Settings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxTZXR0aW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Online-Exam/Online-Exam-System-master/Online Exam System/Views/Student/TakeExam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxUYWtlRXhhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Online-Exam/Online-Exam-System-master/Online Exam System/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Online-Exam/Online-Exam-System-master/Online Exam System/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/work_section/projects_source_code/project_.net/Online-Exam/Online-Exam-System-master/Online Exam System/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-su6s8phitd
